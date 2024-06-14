@@ -1,0 +1,514 @@
+[03-Mar-2024 14:12:08 UTC] PHP Warning:  Undefined array key "username" in /home/blockbl5/public_html/Intranet/proyectos/php/subirDocumento.php on line 16
+[03-Mar-2024 14:12:08 UTC] PHP Warning:  Undefined array key "access_level" in /home/blockbl5/public_html/Intranet/proyectos/php/subirDocumento.php on line 17
+[03-Mar-2024 14:12:08 UTC] PHP Warning:  Undefined array key "email" in /home/blockbl5/public_html/Intranet/proyectos/php/subirDocumento.php on line 18
+[03-Mar-2024 14:12:08 UTC] PHP Warning:  Undefined array key "archivo" in /home/blockbl5/public_html/Intranet/proyectos/php/subirDocumento.php on line 19
+[03-Mar-2024 14:13:31 UTC] PHP Warning:  Undefined array key "username" in /home/blockbl5/public_html/Intranet/proyectos/php/subirDocumento.php on line 16
+[03-Mar-2024 14:13:31 UTC] PHP Warning:  Undefined array key "access_level" in /home/blockbl5/public_html/Intranet/proyectos/php/subirDocumento.php on line 17
+[03-Mar-2024 14:13:31 UTC] PHP Warning:  Undefined array key "email" in /home/blockbl5/public_html/Intranet/proyectos/php/subirDocumento.php on line 18
+[03-Mar-2024 14:13:31 UTC] PHP Warning:  Undefined array key "archivo" in /home/blockbl5/public_html/Intranet/proyectos/php/subirDocumento.php on line 19
+[12-Mar-2024 17:45:29 UTC] PHP Warning:  Undefined array key "username" in /home/blockbl5/public_html/Intranet/proyectos/php/subirDocumento.php on line 16
+[12-Mar-2024 17:45:29 UTC] PHP Warning:  Undefined array key "access_level" in /home/blockbl5/public_html/Intranet/proyectos/php/subirDocumento.php on line 17
+[12-Mar-2024 17:45:29 UTC] PHP Warning:  Undefined array key "email" in /home/blockbl5/public_html/Intranet/proyectos/php/subirDocumento.php on line 18
+[12-Mar-2024 17:45:29 UTC] PHP Warning:  Undefined array key "archivo" in /home/blockbl5/public_html/Intranet/proyectos/php/subirDocumento.php on line 19
+[12-Mar-2024 17:45:49 UTC] PHP Warning:  Undefined array key "username" in /home/blockbl5/public_html/Intranet/proyectos/php/subirDocumento.php on line 16
+[12-Mar-2024 17:45:49 UTC] PHP Warning:  Undefined array key "access_level" in /home/blockbl5/public_html/Intranet/proyectos/php/subirDocumento.php on line 17
+[12-Mar-2024 17:45:49 UTC] PHP Warning:  Undefined array key "email" in /home/blockbl5/public_html/Intranet/proyectos/php/subirDocumento.php on line 18
+[12-Mar-2024 17:45:49 UTC] PHP Warning:  Undefined array key "archivo" in /home/blockbl5/public_html/Intranet/proyectos/php/subirDocumento.php on line 19
+[12-Mar-2024 17:46:20 UTC] PHP Warning:  Undefined array key "username" in /home/blockbl5/public_html/Intranet/proyectos/php/subirDocumento.php on line 16
+[12-Mar-2024 17:46:20 UTC] PHP Warning:  Undefined array key "access_level" in /home/blockbl5/public_html/Intranet/proyectos/php/subirDocumento.php on line 17
+[12-Mar-2024 17:46:20 UTC] PHP Warning:  Undefined array key "email" in /home/blockbl5/public_html/Intranet/proyectos/php/subirDocumento.php on line 18
+[12-Mar-2024 17:46:20 UTC] PHP Warning:  Undefined array key "archivo" in /home/blockbl5/public_html/Intranet/proyectos/php/subirDocumento.php on line 19
+[26-Mar-2024 18:34:21 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'heimdallr20@gmail.com' for key 'correo_electronico' in /home/blockbl5/public_html/Intranet/proyectos/php/agregar_cliente.php:13
+Stack trace:
+#0 /home/blockbl5/public_html/Intranet/proyectos/php/agregar_cliente.php(13): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/blockbl5/public_html/Intranet/proyectos/php/agregar_cliente.php on line 13
+[26-Mar-2024 18:34:38 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'heimdallr20@gmail.com' for key 'correo_electronico' in /home/blockbl5/public_html/Intranet/proyectos/php/agregar_cliente.php:13
+Stack trace:
+#0 /home/blockbl5/public_html/Intranet/proyectos/php/agregar_cliente.php(13): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/blockbl5/public_html/Intranet/proyectos/php/agregar_cliente.php on line 13
+[26-Mar-2024 19:18:20 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'wvw@fve.comm' for key 'correo_electronico' in /home/blockbl5/public_html/Intranet/proyectos/php/agregar_cliente.php:13
+Stack trace:
+#0 /home/blockbl5/public_html/Intranet/proyectos/php/agregar_cliente.php(13): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/blockbl5/public_html/Intranet/proyectos/php/agregar_cliente.php on line 13
+[26-Mar-2024 19:18:23 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'wvw@fve.comm' for key 'correo_electronico' in /home/blockbl5/public_html/Intranet/proyectos/php/agregar_cliente.php:13
+Stack trace:
+#0 /home/blockbl5/public_html/Intranet/proyectos/php/agregar_cliente.php(13): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/blockbl5/public_html/Intranet/proyectos/php/agregar_cliente.php on line 13
+[26-Mar-2024 19:18:27 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'wvw@fve.comm' for key 'correo_electronico' in /home/blockbl5/public_html/Intranet/proyectos/php/agregar_cliente.php:13
+Stack trace:
+#0 /home/blockbl5/public_html/Intranet/proyectos/php/agregar_cliente.php(13): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/blockbl5/public_html/Intranet/proyectos/php/agregar_cliente.php on line 13
+[26-Mar-2024 19:19:54 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'wvw@fve.comm' for key 'correo_electronico' in /home/blockbl5/public_html/Intranet/proyectos/php/agregar_cliente.php:13
+Stack trace:
+#0 /home/blockbl5/public_html/Intranet/proyectos/php/agregar_cliente.php(13): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/blockbl5/public_html/Intranet/proyectos/php/agregar_cliente.php on line 13
+[26-Mar-2024 19:20:03 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'wvw@fve.comm' for key 'correo_electronico' in /home/blockbl5/public_html/Intranet/proyectos/php/agregar_cliente.php:13
+Stack trace:
+#0 /home/blockbl5/public_html/Intranet/proyectos/php/agregar_cliente.php(13): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/blockbl5/public_html/Intranet/proyectos/php/agregar_cliente.php on line 13
+[26-Mar-2024 19:21:34 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'fdb@gma.com' for key 'correo_electronico' in /home/blockbl5/public_html/Intranet/proyectos/php/agregar_cliente.php:13
+Stack trace:
+#0 /home/blockbl5/public_html/Intranet/proyectos/php/agregar_cliente.php(13): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/blockbl5/public_html/Intranet/proyectos/php/agregar_cliente.php on line 13
+[26-Mar-2024 19:22:11 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'fdb@gma.com' for key 'correo_electronico' in /home/blockbl5/public_html/Intranet/proyectos/php/agregar_cliente.php:13
+Stack trace:
+#0 /home/blockbl5/public_html/Intranet/proyectos/php/agregar_cliente.php(13): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/blockbl5/public_html/Intranet/proyectos/php/agregar_cliente.php on line 13
+[26-Mar-2024 19:22:23 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'fdb@gma.com' for key 'correo_electronico' in /home/blockbl5/public_html/Intranet/proyectos/php/agregar_cliente.php:13
+Stack trace:
+#0 /home/blockbl5/public_html/Intranet/proyectos/php/agregar_cliente.php(13): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/blockbl5/public_html/Intranet/proyectos/php/agregar_cliente.php on line 13
+[26-Mar-2024 19:24:18 UTC] PHP Parse error:  syntax error, unexpected identifier "preconnect", expecting "," or ";" in /home/blockbl5/public_html/Intranet/proyectos/php/agregar_cliente.php on line 16
+[26-Mar-2024 20:01:22 UTC] PHP Warning:  Undefined array key "cliente" in /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php on line 9
+[26-Mar-2024 20:01:22 UTC] PHP Warning:  Undefined array key "cliente" in /home/blockbl5/public_html/Intranet/proyectos/php/crearProyecto.php on line 12
+[03-Apr-2024 18:29:25 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'blockbl5_sysintegraapp.tareas' doesn't exist in /home/blockbl5/public_html/Intranet/proyectos/php/getProyectos.php:73
+Stack trace:
+#0 /home/blockbl5/public_html/Intranet/proyectos/php/getProyectos.php(73): mysqli->query('SELECT proyecto...')
+#1 {main}
+  thrown in /home/blockbl5/public_html/Intranet/proyectos/php/getProyectos.php on line 73
+[03-Apr-2024 18:30:45 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'blockbl5_sysintegraapp.tareas' doesn't exist in /home/blockbl5/public_html/Intranet/proyectos/php/getProyectos.php:73
+Stack trace:
+#0 /home/blockbl5/public_html/Intranet/proyectos/php/getProyectos.php(73): mysqli->query('SELECT proyecto...')
+#1 {main}
+  thrown in /home/blockbl5/public_html/Intranet/proyectos/php/getProyectos.php on line 73
+[03-Apr-2024 18:33:49 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'blockbl5_sysintegraapp.tareas' doesn't exist in /home/blockbl5/public_html/Intranet/proyectos/php/getProyectos.php:73
+Stack trace:
+#0 /home/blockbl5/public_html/Intranet/proyectos/php/getProyectos.php(73): mysqli->query('SELECT proyecto...')
+#1 {main}
+  thrown in /home/blockbl5/public_html/Intranet/proyectos/php/getProyectos.php on line 73
+[03-Apr-2024 18:36:10 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'blockbl5_sysintegraapp.tareas' doesn't exist in /home/blockbl5/public_html/Intranet/proyectos/php/getProyectos.php:73
+Stack trace:
+#0 /home/blockbl5/public_html/Intranet/proyectos/php/getProyectos.php(73): mysqli->query('SELECT proyecto...')
+#1 {main}
+  thrown in /home/blockbl5/public_html/Intranet/proyectos/php/getProyectos.php on line 73
+[03-Apr-2024 18:36:15 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'blockbl5_sysintegraapp.tareas' doesn't exist in /home/blockbl5/public_html/Intranet/proyectos/php/getProyectos.php:73
+Stack trace:
+#0 /home/blockbl5/public_html/Intranet/proyectos/php/getProyectos.php(73): mysqli->query('SELECT proyecto...')
+#1 {main}
+  thrown in /home/blockbl5/public_html/Intranet/proyectos/php/getProyectos.php on line 73
+[03-Apr-2024 18:39:44 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'blockbl5_sysintegraapp.tareas' doesn't exist in /home/blockbl5/public_html/Intranet/proyectos/php/getProyectos.php:73
+Stack trace:
+#0 /home/blockbl5/public_html/Intranet/proyectos/php/getProyectos.php(73): mysqli->query('SELECT proyecto...')
+#1 {main}
+  thrown in /home/blockbl5/public_html/Intranet/proyectos/php/getProyectos.php on line 73
+[03-Apr-2024 18:39:48 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'blockbl5_sysintegraapp.tareas' doesn't exist in /home/blockbl5/public_html/Intranet/proyectos/php/getProyectos.php:73
+Stack trace:
+#0 /home/blockbl5/public_html/Intranet/proyectos/php/getProyectos.php(73): mysqli->query('SELECT proyecto...')
+#1 {main}
+  thrown in /home/blockbl5/public_html/Intranet/proyectos/php/getProyectos.php on line 73
+[03-Apr-2024 18:40:09 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'blockbl5_sysintegraapp.tareas' doesn't exist in /home/blockbl5/public_html/Intranet/proyectos/php/getProyectos.php:73
+Stack trace:
+#0 /home/blockbl5/public_html/Intranet/proyectos/php/getProyectos.php(73): mysqli->query('SELECT proyecto...')
+#1 {main}
+  thrown in /home/blockbl5/public_html/Intranet/proyectos/php/getProyectos.php on line 73
+[03-Apr-2024 18:41:51 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'blockbl5_sysintegraapp.tareas' doesn't exist in /home/blockbl5/public_html/Intranet/proyectos/php/getProyectos.php:73
+Stack trace:
+#0 /home/blockbl5/public_html/Intranet/proyectos/php/getProyectos.php(73): mysqli->query('SELECT proyecto...')
+#1 {main}
+  thrown in /home/blockbl5/public_html/Intranet/proyectos/php/getProyectos.php on line 73
+[03-Apr-2024 18:41:52 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'blockbl5_sysintegraapp.tareas' doesn't exist in /home/blockbl5/public_html/Intranet/proyectos/php/getProyectos.php:73
+Stack trace:
+#0 /home/blockbl5/public_html/Intranet/proyectos/php/getProyectos.php(73): mysqli->query('SELECT proyecto...')
+#1 {main}
+  thrown in /home/blockbl5/public_html/Intranet/proyectos/php/getProyectos.php on line 73
+[03-Apr-2024 18:44:25 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'blockbl5_sysintegraapp.tareas' doesn't exist in /home/blockbl5/public_html/Intranet/proyectos/php/getProyectos.php:73
+Stack trace:
+#0 /home/blockbl5/public_html/Intranet/proyectos/php/getProyectos.php(73): mysqli->query('SELECT proyecto...')
+#1 {main}
+  thrown in /home/blockbl5/public_html/Intranet/proyectos/php/getProyectos.php on line 73
+[03-Apr-2024 18:44:31 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'blockbl5_sysintegraapp.tareas' doesn't exist in /home/blockbl5/public_html/Intranet/proyectos/php/getProyectos.php:73
+Stack trace:
+#0 /home/blockbl5/public_html/Intranet/proyectos/php/getProyectos.php(73): mysqli->query('SELECT proyecto...')
+#1 {main}
+  thrown in /home/blockbl5/public_html/Intranet/proyectos/php/getProyectos.php on line 73
+[03-Apr-2024 18:49:51 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'blockbl5_sysintegraapp.tareas' doesn't exist in /home/blockbl5/public_html/Intranet/proyectos/php/getProyectos.php:73
+Stack trace:
+#0 /home/blockbl5/public_html/Intranet/proyectos/php/getProyectos.php(73): mysqli->query('SELECT proyecto...')
+#1 {main}
+  thrown in /home/blockbl5/public_html/Intranet/proyectos/php/getProyectos.php on line 73
+[03-Apr-2024 18:50:06 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'blockbl5_sysintegraapp.tareas' doesn't exist in /home/blockbl5/public_html/Intranet/proyectos/php/getProyectos.php:73
+Stack trace:
+#0 /home/blockbl5/public_html/Intranet/proyectos/php/getProyectos.php(73): mysqli->query('SELECT proyecto...')
+#1 {main}
+  thrown in /home/blockbl5/public_html/Intranet/proyectos/php/getProyectos.php on line 73
+[03-Apr-2024 18:50:06 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'blockbl5_sysintegraapp.tareas' doesn't exist in /home/blockbl5/public_html/Intranet/proyectos/php/getProyectos.php:73
+Stack trace:
+#0 /home/blockbl5/public_html/Intranet/proyectos/php/getProyectos.php(73): mysqli->query('SELECT proyecto...')
+#1 {main}
+  thrown in /home/blockbl5/public_html/Intranet/proyectos/php/getProyectos.php on line 73
+[03-Apr-2024 18:50:07 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'blockbl5_sysintegraapp.tareas' doesn't exist in /home/blockbl5/public_html/Intranet/proyectos/php/getProyectos.php:73
+Stack trace:
+#0 /home/blockbl5/public_html/Intranet/proyectos/php/getProyectos.php(73): mysqli->query('SELECT proyecto...')
+#1 {main}
+  thrown in /home/blockbl5/public_html/Intranet/proyectos/php/getProyectos.php on line 73
+[03-Apr-2024 18:50:08 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'blockbl5_sysintegraapp.tareas' doesn't exist in /home/blockbl5/public_html/Intranet/proyectos/php/getProyectos.php:73
+Stack trace:
+#0 /home/blockbl5/public_html/Intranet/proyectos/php/getProyectos.php(73): mysqli->query('SELECT proyecto...')
+#1 {main}
+  thrown in /home/blockbl5/public_html/Intranet/proyectos/php/getProyectos.php on line 73
+[03-Apr-2024 18:55:07 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'blockbl5_sysintegraapp.tareas' doesn't exist in /home/blockbl5/public_html/Intranet/proyectos/php/getProyectos.php:73
+Stack trace:
+#0 /home/blockbl5/public_html/Intranet/proyectos/php/getProyectos.php(73): mysqli->query('SELECT proyecto...')
+#1 {main}
+  thrown in /home/blockbl5/public_html/Intranet/proyectos/php/getProyectos.php on line 73
+[03-Apr-2024 18:57:06 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'blockbl5_sysintegraapp.tareas' doesn't exist in /home/blockbl5/public_html/Intranet/proyectos/php/getProyectos.php:73
+Stack trace:
+#0 /home/blockbl5/public_html/Intranet/proyectos/php/getProyectos.php(73): mysqli->query('SELECT proyecto...')
+#1 {main}
+  thrown in /home/blockbl5/public_html/Intranet/proyectos/php/getProyectos.php on line 73
+[03-Apr-2024 18:57:11 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'blockbl5_sysintegraapp.tareas' doesn't exist in /home/blockbl5/public_html/Intranet/proyectos/php/getProyectos.php:73
+Stack trace:
+#0 /home/blockbl5/public_html/Intranet/proyectos/php/getProyectos.php(73): mysqli->query('SELECT proyecto...')
+#1 {main}
+  thrown in /home/blockbl5/public_html/Intranet/proyectos/php/getProyectos.php on line 73
+[03-Apr-2024 18:57:53 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'blockbl5_sysintegraapp.tareas' doesn't exist in /home/blockbl5/public_html/Intranet/proyectos/php/getProyectos.php:73
+Stack trace:
+#0 /home/blockbl5/public_html/Intranet/proyectos/php/getProyectos.php(73): mysqli->query('SELECT proyecto...')
+#1 {main}
+  thrown in /home/blockbl5/public_html/Intranet/proyectos/php/getProyectos.php on line 73
+[10-Apr-2024 20:06:40 UTC] PHP Warning:  Undefined array key "cliente" in /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php on line 17
+[10-Apr-2024 20:06:40 UTC] PHP Warning:  Undefined array key "comercial" in /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php on line 18
+[10-Apr-2024 20:11:57 UTC] PHP Warning:  filesize(): stat failed for ../zip/proyecto_Cart_n_Colombia_Computadora_.zip in /home/blockbl5/public_html/Intranet/proyectos/php/descargarProyecto.php on line 50
+[10-Apr-2024 20:11:57 UTC] PHP Warning:  readfile(../zip/proyecto_Cart_n_Colombia_Computadora_.zip): Failed to open stream: No such file or directory in /home/blockbl5/public_html/Intranet/proyectos/php/descargarProyecto.php on line 51
+[10-Apr-2024 20:11:57 UTC] PHP Warning:  unlink(../zip/proyecto_Cart_n_Colombia_Computadora_.zip): No such file or directory in /home/blockbl5/public_html/Intranet/proyectos/php/descargarProyecto.php on line 54
+[10-Apr-2024 20:14:03 UTC] PHP Warning:  filesize(): stat failed for ../zip/proyecto_Cart_n_Colombia_Computadora_.zip in /home/blockbl5/public_html/Intranet/proyectos/php/descargarProyecto.php on line 50
+[10-Apr-2024 20:14:03 UTC] PHP Warning:  readfile(../zip/proyecto_Cart_n_Colombia_Computadora_.zip): Failed to open stream: No such file or directory in /home/blockbl5/public_html/Intranet/proyectos/php/descargarProyecto.php on line 51
+[10-Apr-2024 20:14:03 UTC] PHP Warning:  unlink(../zip/proyecto_Cart_n_Colombia_Computadora_.zip): No such file or directory in /home/blockbl5/public_html/Intranet/proyectos/php/descargarProyecto.php on line 54
+[10-Apr-2024 20:15:49 UTC] PHP Warning:  filesize(): stat failed for ../zip/proyecto_Cart_n_Colombia_Computadora_.zip in /home/blockbl5/public_html/Intranet/proyectos/php/descargarProyecto.php on line 50
+[10-Apr-2024 20:15:49 UTC] PHP Warning:  readfile(../zip/proyecto_Cart_n_Colombia_Computadora_.zip): Failed to open stream: No such file or directory in /home/blockbl5/public_html/Intranet/proyectos/php/descargarProyecto.php on line 51
+[10-Apr-2024 20:15:49 UTC] PHP Warning:  unlink(../zip/proyecto_Cart_n_Colombia_Computadora_.zip): No such file or directory in /home/blockbl5/public_html/Intranet/proyectos/php/descargarProyecto.php on line 54
+[10-Apr-2024 20:18:57 UTC] PHP Warning:  filesize(): stat failed for ../zip/proyecto_Cart_n_Colombia_Computadora_.zip in /home/blockbl5/public_html/Intranet/proyectos/php/descargarProyecto.php on line 50
+[10-Apr-2024 20:18:57 UTC] PHP Warning:  readfile(../zip/proyecto_Cart_n_Colombia_Computadora_.zip): Failed to open stream: No such file or directory in /home/blockbl5/public_html/Intranet/proyectos/php/descargarProyecto.php on line 51
+[10-Apr-2024 20:18:57 UTC] PHP Warning:  unlink(../zip/proyecto_Cart_n_Colombia_Computadora_.zip): No such file or directory in /home/blockbl5/public_html/Intranet/proyectos/php/descargarProyecto.php on line 54
+[10-Apr-2024 20:20:33 UTC] PHP Warning:  filesize(): stat failed for ../zip/proyecto_Cart_n_Colombia_Computadora_.zip in /home/blockbl5/public_html/Intranet/proyectos/php/descargarProyecto.php on line 50
+[10-Apr-2024 20:20:34 UTC] PHP Warning:  readfile(../zip/proyecto_Cart_n_Colombia_Computadora_.zip): Failed to open stream: No such file or directory in /home/blockbl5/public_html/Intranet/proyectos/php/descargarProyecto.php on line 51
+[10-Apr-2024 20:20:34 UTC] PHP Warning:  unlink(../zip/proyecto_Cart_n_Colombia_Computadora_.zip): No such file or directory in /home/blockbl5/public_html/Intranet/proyectos/php/descargarProyecto.php on line 54
+[10-Apr-2024 20:23:27 UTC] PHP Warning:  filesize(): stat failed for ../zip/proyecto_Cart_n_Colombia_Computadora_.zip in /home/blockbl5/public_html/Intranet/proyectos/php/descargarProyecto.php on line 50
+[10-Apr-2024 20:23:27 UTC] PHP Warning:  readfile(../zip/proyecto_Cart_n_Colombia_Computadora_.zip): Failed to open stream: No such file or directory in /home/blockbl5/public_html/Intranet/proyectos/php/descargarProyecto.php on line 51
+[10-Apr-2024 20:23:27 UTC] PHP Warning:  unlink(../zip/proyecto_Cart_n_Colombia_Computadora_.zip): No such file or directory in /home/blockbl5/public_html/Intranet/proyectos/php/descargarProyecto.php on line 54
+[11-Apr-2024 17:04:48 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'empresa_emisora' in 'field list' in /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php:30
+Stack trace:
+#0 /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php(30): mysqli->prepare('UPDATE proyecto...')
+#1 {main}
+  thrown in /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php on line 30
+[11-Apr-2024 17:04:53 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'empresa_emisora' in 'field list' in /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php:30
+Stack trace:
+#0 /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php(30): mysqli->prepare('UPDATE proyecto...')
+#1 {main}
+  thrown in /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php on line 30
+[11-Apr-2024 17:04:56 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'empresa_emisora' in 'field list' in /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php:30
+Stack trace:
+#0 /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php(30): mysqli->prepare('UPDATE proyecto...')
+#1 {main}
+  thrown in /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php on line 30
+[11-Apr-2024 17:06:30 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'empresa_emisora' in 'field list' in /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php:30
+Stack trace:
+#0 /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php(30): mysqli->prepare('UPDATE proyecto...')
+#1 {main}
+  thrown in /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php on line 30
+[11-Apr-2024 17:06:41 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'empresa_emisora' in 'field list' in /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php:30
+Stack trace:
+#0 /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php(30): mysqli->prepare('UPDATE proyecto...')
+#1 {main}
+  thrown in /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php on line 30
+[11-Apr-2024 17:08:51 UTC] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php:37
+Stack trace:
+#0 /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php(37): mysqli_stmt->bind_param('ssssssssssi', 'admin', 'Cart\xC3\xB3n Colombi...', 'Cart\xC3\xB3n Colombi...', 'Andr\xC3\xA9s Silva', 'En proceso de c...', '2024-04-10', '2024-04-10', '2024-04-20', 'Venta de 10 por...', 'Integratic SAS', '0212', '152')
+#1 {main}
+  thrown in /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php on line 37
+[11-Apr-2024 17:08:53 UTC] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php:37
+Stack trace:
+#0 /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php(37): mysqli_stmt->bind_param('ssssssssssi', 'admin', 'Cart\xC3\xB3n Colombi...', 'Cart\xC3\xB3n Colombi...', 'Andr\xC3\xA9s Silva', 'En proceso de c...', '2024-04-10', '2024-04-10', '2024-04-20', 'Venta de 10 por...', 'Integratic SAS', '0212', '152')
+#1 {main}
+  thrown in /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php on line 37
+[11-Apr-2024 17:13:32 UTC] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php:37
+Stack trace:
+#0 /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php(37): mysqli_stmt->bind_param('ssssssssssi', 'admin', 'Cart\xC3\xB3n Colombi...', 'Cart\xC3\xB3n Colombi...', 'Andr\xC3\xA9s Silva', 'En proceso de c...', '2024-04-10', '2024-04-10', '2024-04-20', 'Venta de 10 por...', 'Integratic SAS', '0212', '152')
+#1 {main}
+  thrown in /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php on line 37
+[11-Apr-2024 17:13:34 UTC] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php:37
+Stack trace:
+#0 /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php(37): mysqli_stmt->bind_param('ssssssssssi', 'admin', 'Cart\xC3\xB3n Colombi...', 'Cart\xC3\xB3n Colombi...', 'Andr\xC3\xA9s Silva', 'En proceso de c...', '2024-04-10', '2024-04-10', '2024-04-20', 'Venta de 10 por...', 'Integratic SAS', '0212', '152')
+#1 {main}
+  thrown in /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php on line 37
+[11-Apr-2024 17:13:35 UTC] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php:37
+Stack trace:
+#0 /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php(37): mysqli_stmt->bind_param('ssssssssssi', 'admin', 'Cart\xC3\xB3n Colombi...', 'Cart\xC3\xB3n Colombi...', 'Andr\xC3\xA9s Silva', 'En proceso de c...', '2024-04-10', '2024-04-10', '2024-04-20', 'Venta de 10 por...', 'Integratic SAS', '0212', '152')
+#1 {main}
+  thrown in /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php on line 37
+[11-Apr-2024 17:13:35 UTC] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php:37
+Stack trace:
+#0 /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php(37): mysqli_stmt->bind_param('ssssssssssi', 'admin', 'Cart\xC3\xB3n Colombi...', 'Cart\xC3\xB3n Colombi...', 'Andr\xC3\xA9s Silva', 'En proceso de c...', '2024-04-10', '2024-04-10', '2024-04-20', 'Venta de 10 por...', 'Integratic SAS', '0212', '152')
+#1 {main}
+  thrown in /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php on line 37
+[11-Apr-2024 17:13:45 UTC] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php:37
+Stack trace:
+#0 /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php(37): mysqli_stmt->bind_param('ssssssssssi', 'admin', 'Cart\xC3\xB3n Colombi...', 'Cart\xC3\xB3n Colombi...', 'Andr\xC3\xA9s Silva', 'En proceso de c...', '2024-04-10', '2024-04-10', '2024-04-20', 'Venta de 10 por...', 'Integratic SAS', '0212', '152')
+#1 {main}
+  thrown in /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php on line 37
+[11-Apr-2024 18:42:30 UTC] PHP Warning:  Undefined array key "empresa_emisora" in /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php on line 26
+[11-Apr-2024 18:42:30 UTC] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php:37
+Stack trace:
+#0 /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php(37): mysqli_stmt->bind_param('ssssssssssi', 'admin', 'Cart\xC3\xB3n Colombi...', 'Cart\xC3\xB3n Colombi...', 'Andr\xC3\xA9s Silva', 'En proceso de c...', '2024-04-10', '2024-04-10', '2024-04-20', 'Venta de 10 por...', NULL, '0212', '152')
+#1 {main}
+  thrown in /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php on line 37
+[11-Apr-2024 18:42:38 UTC] PHP Warning:  Undefined array key "empresa_emisora" in /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php on line 26
+[11-Apr-2024 18:42:38 UTC] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php:37
+Stack trace:
+#0 /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php(37): mysqli_stmt->bind_param('ssssssssssi', 'admin', 'Cart\xC3\xB3n Colombi...', 'Cart\xC3\xB3n Colombi...', 'Andr\xC3\xA9s Silva', 'En proceso de c...', '2024-04-10', '2024-04-10', '2024-04-20', 'Venta de 10 por...', NULL, '0212', '152')
+#1 {main}
+  thrown in /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php on line 37
+[11-Apr-2024 18:43:57 UTC] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php:37
+Stack trace:
+#0 /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php(37): mysqli_stmt->bind_param('ssssssssssi', 'admin', 'Cart\xC3\xB3n Colombi...', 'Cart\xC3\xB3n Colombi...', 'Andr\xC3\xA9s Silva', 'En proceso de c...', '2024-04-10', '2024-04-10', '2024-04-20', 'Venta de 10 por...', 'Integratic SAS', '0212', '152')
+#1 {main}
+  thrown in /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php on line 37
+[11-Apr-2024 18:44:00 UTC] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php:37
+Stack trace:
+#0 /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php(37): mysqli_stmt->bind_param('ssssssssssi', 'admin', 'Cart\xC3\xB3n Colombi...', 'Cart\xC3\xB3n Colombi...', 'Andr\xC3\xA9s Silva', 'En proceso de c...', '2024-04-10', '2024-04-10', '2024-04-20', 'Venta de 10 por...', 'Integratic SAS', '0212', '152')
+#1 {main}
+  thrown in /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php on line 37
+[11-Apr-2024 18:44:00 UTC] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php:37
+Stack trace:
+#0 /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php(37): mysqli_stmt->bind_param('ssssssssssi', 'admin', 'Cart\xC3\xB3n Colombi...', 'Cart\xC3\xB3n Colombi...', 'Andr\xC3\xA9s Silva', 'En proceso de c...', '2024-04-10', '2024-04-10', '2024-04-20', 'Venta de 10 por...', 'Integratic SAS', '0212', '152')
+#1 {main}
+  thrown in /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php on line 37
+[11-Apr-2024 18:44:01 UTC] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php:37
+Stack trace:
+#0 /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php(37): mysqli_stmt->bind_param('ssssssssssi', 'admin', 'Cart\xC3\xB3n Colombi...', 'Cart\xC3\xB3n Colombi...', 'Andr\xC3\xA9s Silva', 'En proceso de c...', '2024-04-10', '2024-04-10', '2024-04-20', 'Venta de 10 por...', 'Integratic SAS', '0212', '152')
+#1 {main}
+  thrown in /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php on line 37
+[11-Apr-2024 18:45:48 UTC] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php:37
+Stack trace:
+#0 /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php(37): mysqli_stmt->bind_param('ssssssssssi', 'admin', 'Cart\xC3\xB3n Colombi...', 'Cart\xC3\xB3n Colombi...', 'Andr\xC3\xA9s Silva', 'En proceso de c...', '2024-04-10', '2024-04-10', '2024-04-20', 'Venta de 10 por...', 'Integratic SAS', '0212', '152')
+#1 {main}
+  thrown in /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php on line 37
+[11-Apr-2024 18:50:11 UTC] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php:37
+Stack trace:
+#0 /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php(37): mysqli_stmt->bind_param('ssssssssss', 'admin', 'Cart\xC3\xB3n Colombi...', 'Cart\xC3\xB3n Colombi...', 'Andr\xC3\xA9s Silva', 'Pendiente por f...', '2024-04-10', '2024-04-10', '2024-04-20', 'Venta de 10 por...', 'Integratic SAS', '0212', '152')
+#1 {main}
+  thrown in /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php on line 37
+[11-Apr-2024 18:50:13 UTC] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php:37
+Stack trace:
+#0 /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php(37): mysqli_stmt->bind_param('ssssssssss', 'admin', 'Cart\xC3\xB3n Colombi...', 'Cart\xC3\xB3n Colombi...', 'Andr\xC3\xA9s Silva', 'Pendiente por f...', '2024-04-10', '2024-04-10', '2024-04-20', 'Venta de 10 por...', 'Integratic SAS', '0212', '152')
+#1 {main}
+  thrown in /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php on line 37
+[11-Apr-2024 18:50:14 UTC] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php:37
+Stack trace:
+#0 /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php(37): mysqli_stmt->bind_param('ssssssssss', 'admin', 'Cart\xC3\xB3n Colombi...', 'Cart\xC3\xB3n Colombi...', 'Andr\xC3\xA9s Silva', 'Pendiente por f...', '2024-04-10', '2024-04-10', '2024-04-20', 'Venta de 10 por...', 'Integratic SAS', '0212', '152')
+#1 {main}
+  thrown in /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php on line 37
+[11-Apr-2024 18:50:14 UTC] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php:37
+Stack trace:
+#0 /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php(37): mysqli_stmt->bind_param('ssssssssss', 'admin', 'Cart\xC3\xB3n Colombi...', 'Cart\xC3\xB3n Colombi...', 'Andr\xC3\xA9s Silva', 'Pendiente por f...', '2024-04-10', '2024-04-10', '2024-04-20', 'Venta de 10 por...', 'Integratic SAS', '0212', '152')
+#1 {main}
+  thrown in /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php on line 37
+[11-Apr-2024 18:50:14 UTC] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php:37
+Stack trace:
+#0 /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php(37): mysqli_stmt->bind_param('ssssssssss', 'admin', 'Cart\xC3\xB3n Colombi...', 'Cart\xC3\xB3n Colombi...', 'Andr\xC3\xA9s Silva', 'Pendiente por f...', '2024-04-10', '2024-04-10', '2024-04-20', 'Venta de 10 por...', 'Integratic SAS', '0212', '152')
+#1 {main}
+  thrown in /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php on line 37
+[11-Apr-2024 18:51:51 UTC] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php:37
+Stack trace:
+#0 /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php(37): mysqli_stmt->bind_param('ssssssssss', 'admin', 'Cart\xC3\xB3n Colombi...', 'Cart\xC3\xB3n Colombi...', 'Andr\xC3\xA9s Silva', 'Pendiente por f...', '2024-04-10', '2024-04-10', '2024-04-20', 'Venta de 10 por...', 'Integratic SAS', '0212', '152')
+#1 {main}
+  thrown in /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php on line 37
+[11-Apr-2024 18:51:51 UTC] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php:37
+Stack trace:
+#0 /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php(37): mysqli_stmt->bind_param('ssssssssss', 'admin', 'Cart\xC3\xB3n Colombi...', 'Cart\xC3\xB3n Colombi...', 'Andr\xC3\xA9s Silva', 'Pendiente por f...', '2024-04-10', '2024-04-10', '2024-04-20', 'Venta de 10 por...', 'Integratic SAS', '0212', '152')
+#1 {main}
+  thrown in /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php on line 37
+[11-Apr-2024 18:51:51 UTC] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php:37
+Stack trace:
+#0 /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php(37): mysqli_stmt->bind_param('ssssssssss', 'admin', 'Cart\xC3\xB3n Colombi...', 'Cart\xC3\xB3n Colombi...', 'Andr\xC3\xA9s Silva', 'Pendiente por f...', '2024-04-10', '2024-04-10', '2024-04-20', 'Venta de 10 por...', 'Integratic SAS', '0212', '152')
+#1 {main}
+  thrown in /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php on line 37
+[11-Apr-2024 18:53:37 UTC] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php:37
+Stack trace:
+#0 /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php(37): mysqli_stmt->bind_param('sssssssss', 'admin', 'Cart\xC3\xB3n Colombi...', 'Cart\xC3\xB3n Colombi...', 'Andr\xC3\xA9s Silva', 'En proceso de c...', '2024-04-10', '2024-04-10', '2024-04-20', 'Venta de 10 por...', 'Integratic SAS', '0212', '152')
+#1 {main}
+  thrown in /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php on line 37
+[11-Apr-2024 18:53:38 UTC] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php:37
+Stack trace:
+#0 /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php(37): mysqli_stmt->bind_param('sssssssss', 'admin', 'Cart\xC3\xB3n Colombi...', 'Cart\xC3\xB3n Colombi...', 'Andr\xC3\xA9s Silva', 'En proceso de c...', '2024-04-10', '2024-04-10', '2024-04-20', 'Venta de 10 por...', 'Integratic SAS', '0212', '152')
+#1 {main}
+  thrown in /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php on line 37
+[11-Apr-2024 18:53:39 UTC] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php:37
+Stack trace:
+#0 /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php(37): mysqli_stmt->bind_param('sssssssss', 'admin', 'Cart\xC3\xB3n Colombi...', 'Cart\xC3\xB3n Colombi...', 'Andr\xC3\xA9s Silva', 'En proceso de c...', '2024-04-10', '2024-04-10', '2024-04-20', 'Venta de 10 por...', 'Integratic SAS', '0212', '152')
+#1 {main}
+  thrown in /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php on line 37
+[11-Apr-2024 18:54:39 UTC] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php:37
+Stack trace:
+#0 /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php(37): mysqli_stmt->bind_param('sssssssss', 'admin', 'Cart\xC3\xB3n Colombi...', 'Cart\xC3\xB3n Colombi...', 'Andr\xC3\xA9s Silva', 'En proceso de c...', '2024-04-10', '2024-04-10', '2024-04-20', 'Venta de 10 por...', 'Pcsyportatiles', '0212', '152')
+#1 {main}
+  thrown in /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php on line 37
+[11-Apr-2024 18:56:15 UTC] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php:37
+Stack trace:
+#0 /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php(37): mysqli_stmt->bind_param('ssssssssss', 'admin', 'Cart\xC3\xB3n Colombi...', 'Cart\xC3\xB3n Colombi...', 'Andr\xC3\xA9s Silva', 'En proceso de c...', '2024-04-10', '2024-04-10', '2024-04-20', 'Venta de 10 por...', 'Integratic SAS', '0212', '152')
+#1 {main}
+  thrown in /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php on line 37
+[11-Apr-2024 18:56:18 UTC] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php:37
+Stack trace:
+#0 /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php(37): mysqli_stmt->bind_param('ssssssssss', 'admin', 'Cart\xC3\xB3n Colombi...', 'Cart\xC3\xB3n Colombi...', 'Andr\xC3\xA9s Silva', 'En proceso de c...', '2024-04-10', '2024-04-10', '2024-04-20', 'Venta de 10 por...', 'Integratic SAS', '0212', '152')
+#1 {main}
+  thrown in /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php on line 37
+[11-Apr-2024 18:58:30 UTC] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php:37
+Stack trace:
+#0 /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php(37): mysqli_stmt->bind_param('ssssssssss', 'admin', 'venta 4 pc', 'Cart\xC3\xB3n Colombi...', 'Andr\xC3\xA9s Silva', 'En proceso de c...', '2024-04-11', '2024-04-12', '', 'dfs', 'Pcsyportatiles', '1234', '155')
+#1 {main}
+  thrown in /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php on line 37
+[11-Apr-2024 18:58:33 UTC] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php:37
+Stack trace:
+#0 /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php(37): mysqli_stmt->bind_param('ssssssssss', 'admin', 'venta 4 pc', 'Cart\xC3\xB3n Colombi...', 'Andr\xC3\xA9s Silva', 'En proceso de c...', '2024-04-11', '2024-04-12', '', 'dfs', 'Pcsyportatiles', '1234', '155')
+#1 {main}
+  thrown in /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php on line 37
+[11-Apr-2024 19:10:47 UTC] PHP Warning:  Undefined variable $POST in /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php on line 12
+[11-Apr-2024 19:10:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php on line 12
+[11-Apr-2024 19:10:47 UTC] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php:29
+Stack trace:
+#0 /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php(29): mysqli_stmt->bind_param('ssssssssssi', 'admin', 'venta 4 pc', 'Cart\xC3\xB3n Colombi...', 'Andr\xC3\xA9s Silva', 'En proceso de c...', '2024-04-11', '2024-04-12', '', 'dfs', NULL, '1234', '155')
+#1 {main}
+  thrown in /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php on line 29
+[11-Apr-2024 19:10:51 UTC] PHP Warning:  Undefined variable $POST in /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php on line 12
+[11-Apr-2024 19:10:51 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php on line 12
+[11-Apr-2024 19:10:51 UTC] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php:29
+Stack trace:
+#0 /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php(29): mysqli_stmt->bind_param('ssssssssssi', 'admin', 'venta 4 pc', 'Cart\xC3\xB3n Colombi...', 'Andr\xC3\xA9s Silva', 'En proceso de c...', '2024-04-11', '2024-04-12', '', 'dfs', NULL, '1234', '155')
+#1 {main}
+  thrown in /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php on line 29
+[11-Apr-2024 19:10:52 UTC] PHP Warning:  Undefined variable $POST in /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php on line 12
+[11-Apr-2024 19:10:52 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php on line 12
+[11-Apr-2024 19:10:53 UTC] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php:29
+Stack trace:
+#0 /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php(29): mysqli_stmt->bind_param('ssssssssssi', 'admin', 'venta 4 pc', 'Cart\xC3\xB3n Colombi...', 'Andr\xC3\xA9s Silva', 'En proceso de c...', '2024-04-11', '2024-04-12', '', 'dfs', NULL, '1234', '155')
+#1 {main}
+  thrown in /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php on line 29
+[11-Apr-2024 19:10:53 UTC] PHP Warning:  Undefined variable $POST in /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php on line 12
+[11-Apr-2024 19:10:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php on line 12
+[11-Apr-2024 19:10:53 UTC] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php:29
+Stack trace:
+#0 /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php(29): mysqli_stmt->bind_param('ssssssssssi', 'admin', 'venta 4 pc', 'Cart\xC3\xB3n Colombi...', 'Andr\xC3\xA9s Silva', 'En proceso de c...', '2024-04-11', '2024-04-12', '', 'dfs', NULL, '1234', '155')
+#1 {main}
+  thrown in /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php on line 29
+[11-Apr-2024 19:10:53 UTC] PHP Warning:  Undefined variable $POST in /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php on line 12
+[11-Apr-2024 19:10:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php on line 12
+[11-Apr-2024 19:10:53 UTC] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php:29
+Stack trace:
+#0 /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php(29): mysqli_stmt->bind_param('ssssssssssi', 'admin', 'venta 4 pc', 'Cart\xC3\xB3n Colombi...', 'Andr\xC3\xA9s Silva', 'En proceso de c...', '2024-04-11', '2024-04-12', '', 'dfs', NULL, '1234', '155')
+#1 {main}
+  thrown in /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php on line 29
+[11-Apr-2024 19:11:33 UTC] PHP Warning:  Undefined variable $POST in /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php on line 12
+[11-Apr-2024 19:11:34 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php on line 12
+[11-Apr-2024 19:11:34 UTC] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php:29
+Stack trace:
+#0 /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php(29): mysqli_stmt->bind_param('sssssssssss', 'admin', 'venta 4 pc', 'Cart\xC3\xB3n Colombi...', 'Andr\xC3\xA9s Silva', 'En proceso de c...', '2024-04-11', '2024-04-12', '', 'dfs', NULL, '1234', '155')
+#1 {main}
+  thrown in /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php on line 29
+[11-Apr-2024 19:11:35 UTC] PHP Warning:  Undefined variable $POST in /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php on line 12
+[11-Apr-2024 19:11:36 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php on line 12
+[11-Apr-2024 19:11:36 UTC] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php:29
+Stack trace:
+#0 /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php(29): mysqli_stmt->bind_param('sssssssssss', 'admin', 'venta 4 pc', 'Cart\xC3\xB3n Colombi...', 'Andr\xC3\xA9s Silva', 'En proceso de c...', '2024-04-11', '2024-04-12', '', 'dfs', NULL, '1234', '155')
+#1 {main}
+  thrown in /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php on line 29
+[11-Apr-2024 19:11:36 UTC] PHP Warning:  Undefined variable $POST in /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php on line 12
+[11-Apr-2024 19:11:36 UTC] PHP Warning:  Undefined variable $POST in /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php on line 12
+[11-Apr-2024 19:11:36 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php on line 12
+[11-Apr-2024 19:11:36 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php on line 12
+[11-Apr-2024 19:11:36 UTC] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php:29
+Stack trace:
+#0 /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php(29): mysqli_stmt->bind_param('sssssssssss', 'admin', 'venta 4 pc', 'Cart\xC3\xB3n Colombi...', 'Andr\xC3\xA9s Silva', 'En proceso de c...', '2024-04-11', '2024-04-12', '', 'dfs', NULL, '1234', '155')
+#1 {main}
+  thrown in /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php on line 29
+[11-Apr-2024 19:11:36 UTC] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php:29
+Stack trace:
+#0 /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php(29): mysqli_stmt->bind_param('sssssssssss', 'admin', 'venta 4 pc', 'Cart\xC3\xB3n Colombi...', 'Andr\xC3\xA9s Silva', 'En proceso de c...', '2024-04-11', '2024-04-12', '', 'dfs', NULL, '1234', '155')
+#1 {main}
+  thrown in /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php on line 29
+[11-Apr-2024 19:11:36 UTC] PHP Warning:  Undefined variable $POST in /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php on line 12
+[11-Apr-2024 19:11:36 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php on line 12
+[11-Apr-2024 19:11:36 UTC] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php:29
+Stack trace:
+#0 /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php(29): mysqli_stmt->bind_param('sssssssssss', 'admin', 'venta 4 pc', 'Cart\xC3\xB3n Colombi...', 'Andr\xC3\xA9s Silva', 'En proceso de c...', '2024-04-11', '2024-04-12', '', 'dfs', NULL, '1234', '155')
+#1 {main}
+  thrown in /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php on line 29
+[11-Apr-2024 19:13:09 UTC] PHP Warning:  Undefined variable $POST in /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php on line 12
+[11-Apr-2024 19:13:09 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php on line 12
+[11-Apr-2024 19:13:09 UTC] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php:29
+Stack trace:
+#0 /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php(29): mysqli_stmt->bind_param('sssssssssss', 'admin', 'venta 4 pc', 'Cart\xC3\xB3n Colombi...', 'Andr\xC3\xA9s Silva', 'En proceso de c...', '2024-04-11', '2024-04-12', '', 'dfs', NULL, '1234', '155')
+#1 {main}
+  thrown in /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php on line 29
+[11-Apr-2024 19:13:17 UTC] PHP Warning:  Undefined variable $POST in /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php on line 12
+[11-Apr-2024 19:13:17 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php on line 12
+[11-Apr-2024 19:13:17 UTC] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php:29
+Stack trace:
+#0 /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php(29): mysqli_stmt->bind_param('sssssssssss', 'admin', 'venta 4 pc', 'Cart\xC3\xB3n Colombi...', 'Andr\xC3\xA9s Silva', 'En proceso de c...', '2024-04-11', '2024-04-12', '', 'dfs', NULL, '1234', '155')
+#1 {main}
+  thrown in /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php on line 29
+[11-Apr-2024 19:14:35 UTC] PHP Warning:  Undefined variable $POST in /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php on line 12
+[11-Apr-2024 19:14:35 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php on line 12
+[11-Apr-2024 19:14:35 UTC] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php:29
+Stack trace:
+#0 /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php(29): mysqli_stmt->bind_param('sssssssssss', 'admin', 'venta 4 pc', 'Cart\xC3\xB3n Colombi...', 'Andr\xC3\xA9s Silva', 'En proceso de c...', '2024-04-11', '2024-04-12', '', 'dfs', NULL, '1234', '155')
+#1 {main}
+  thrown in /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php on line 29
+[11-Apr-2024 19:14:36 UTC] PHP Warning:  Undefined variable $POST in /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php on line 12
+[11-Apr-2024 19:14:37 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php on line 12
+[11-Apr-2024 19:14:37 UTC] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php:29
+Stack trace:
+#0 /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php(29): mysqli_stmt->bind_param('sssssssssss', 'admin', 'venta 4 pc', 'Cart\xC3\xB3n Colombi...', 'Andr\xC3\xA9s Silva', 'En proceso de c...', '2024-04-11', '2024-04-12', '', 'dfs', NULL, '1234', '155')
+#1 {main}
+  thrown in /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php on line 29
+[11-Apr-2024 19:14:38 UTC] PHP Warning:  Undefined variable $POST in /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php on line 12
+[11-Apr-2024 19:14:38 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php on line 12
+[11-Apr-2024 19:14:38 UTC] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php:29
+Stack trace:
+#0 /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php(29): mysqli_stmt->bind_param('sssssssssss', 'admin', 'venta 4 pc', 'Cart\xC3\xB3n Colombi...', 'Andr\xC3\xA9s Silva', 'En proceso de c...', '2024-04-11', '2024-04-12', '', 'dfs', NULL, '1234', '155')
+#1 {main}
+  thrown in /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php on line 29
+[11-Apr-2024 19:14:38 UTC] PHP Warning:  Undefined variable $POST in /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php on line 12
+[11-Apr-2024 19:14:38 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php on line 12
+[11-Apr-2024 19:14:38 UTC] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php:29
+Stack trace:
+#0 /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php(29): mysqli_stmt->bind_param('sssssssssss', 'admin', 'venta 4 pc', 'Cart\xC3\xB3n Colombi...', 'Andr\xC3\xA9s Silva', 'En proceso de c...', '2024-04-11', '2024-04-12', '', 'dfs', NULL, '1234', '155')
+#1 {main}
+  thrown in /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php on line 29
+[11-Apr-2024 19:14:38 UTC] PHP Warning:  Undefined variable $POST in /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php on line 12
+[11-Apr-2024 19:14:38 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php on line 12
+[11-Apr-2024 19:14:38 UTC] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php:29
+Stack trace:
+#0 /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php(29): mysqli_stmt->bind_param('sssssssssss', 'admin', 'venta 4 pc', 'Cart\xC3\xB3n Colombi...', 'Andr\xC3\xA9s Silva', 'En proceso de c...', '2024-04-11', '2024-04-12', '', 'dfs', NULL, '1234', '155')
+#1 {main}
+  thrown in /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php on line 29
+[11-Apr-2024 19:14:38 UTC] PHP Warning:  Undefined variable $POST in /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php on line 12
+[11-Apr-2024 19:14:38 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php on line 12
+[11-Apr-2024 19:14:38 UTC] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php:29
+Stack trace:
+#0 /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php(29): mysqli_stmt->bind_param('sssssssssss', 'admin', 'venta 4 pc', 'Cart\xC3\xB3n Colombi...', 'Andr\xC3\xA9s Silva', 'En proceso de c...', '2024-04-11', '2024-04-12', '', 'dfs', NULL, '1234', '155')
+#1 {main}
+  thrown in /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php on line 29
+[11-Apr-2024 19:15:06 UTC] PHP Warning:  Undefined variable $POST in /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php on line 12
+[11-Apr-2024 19:15:06 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php on line 12
+[11-Apr-2024 19:15:06 UTC] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php:29
+Stack trace:
+#0 /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php(29): mysqli_stmt->bind_param('sssssssssss', 'admin', 'venta 4 pc', 'Cart\xC3\xB3n Colombi...', 'Andr\xC3\xA9s Silva', 'En proceso de c...', '2024-04-11', '2024-04-12', '', 'dfs', NULL, '1234', '155')
+#1 {main}
+  thrown in /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php on line 29
+[12-Apr-2024 23:32:50 UTC] PHP Warning:  Undefined variable $POST in /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php on line 12
+[12-Apr-2024 23:32:50 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php on line 12
+[12-Apr-2024 23:36:35 UTC] PHP Warning:  Undefined variable $POST in /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php on line 12
+[12-Apr-2024 23:36:35 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php on line 12
+[12-Apr-2024 23:38:17 UTC] PHP Warning:  Undefined variable $POST in /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php on line 12
+[12-Apr-2024 23:38:17 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/blockbl5/public_html/Intranet/proyectos/php/editarProyecto.php on line 12
